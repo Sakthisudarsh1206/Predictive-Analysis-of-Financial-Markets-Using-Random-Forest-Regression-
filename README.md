@@ -1,6 +1,7 @@
 **Financial Market Prediction with Random Forest Regression**
 
 This project aims to predict financial market trends using machine learning techniques, specifically Random Forest Regression. The model is trained on historical market data and sentiment analysis of news articles. The goal is to forecast the closing prices of a specific financial asset (e.g., stock, commodity) based on various features such as historical prices, sentiment scores, and other relevant metrics.
+**Here HDFC stocks were taken into consideration, the dataset was self acquired using Web scraping of news articles in yahoo financial news, and the stock closing prices from yahoo finance. Other factors such as Gold Prices,USD-INR Exchange Rates,Fuel Prices were also considered for better analysis stock movement**
 
 **Overview**
 The project consists of the following main components:
